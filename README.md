@@ -7,14 +7,23 @@
 
 ## School District Results:
 
-### Removing the 9th graders from Thomas caused all of the test scores to fall marginally, all less than 1%:
+### Removing the 9th graders from Thomas caused the test scores and percentages for the district overall to fall marginally, all less than 1%:
+
 ### Original District data
 ![launch](Resources/District_Pre.png)
 
 ### Post removal of Thomas 9th graders
 ![launch](Resources/District_Post.png)
 
+### Removing the 9th graders from Thomas caused Thomas High's test scores and percentages to fall a few fractions of a percent however a larger drop than the district at large, all less than 1% with the reading scores falling the most:
 
+### Original District data
+![launch](Resources/Thomas_pre.png)
 
+### Post removal of Thomas 9th graders
+![launch](Resources/Thomas_post.png)
 
-### The summary 
+## Summary 
+### Removal of the 9th graders caused Thomas to fall in rankings compared to its district peers. Since their fraud artifically inflated the scores, removal of that data caused Thomas to look worse. School spending analysis made it appear Thomas is spending more for worse results, made medium size schools look worse as it pulled down averages for the category, and also affected the Charter school group as well. 
+
+### Thomas High's removal of fradulent scores and replacements with NaNs proves the old saying that crime doesnt pay.
