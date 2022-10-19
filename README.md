@@ -15,7 +15,7 @@
 ### Post removal of Thomas 9th graders
 ![launch](Resources/District_Post.png)
 
-### Removing the 9th graders from Thomas caused Thomas High's test scores and percentages to fall a few fractions of a percent however a larger drop than the district at large, all less than 1% with the reading scores falling the most:
+### Removing the 9th graders from Thomas caused Thomas High's test scores and percentages to fall (with exception of the reading score with increased 0.05). All else fell a few fractions of a percent, a larger drop than the district at large, all less than 1% with the reading percentages falling the most:
 
 ### Original District data
 ![launch](Resources/Thomas_pre.png)
